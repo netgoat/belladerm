@@ -60,7 +60,7 @@ const testimonials = [
   },
   {
     id: 2,
-    name: 'فاطمة الزهراء',
+    name: 'ليلى محمد',
     rating: 5,
     text: 'خدمة مهنية ومنتجات ممتازة.',
     image: 'https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg?auto=compress&cs=tinysrgb&w=400',
